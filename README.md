@@ -8,7 +8,7 @@ zabbix
 		3.提供增加host,hostgroup功能
 		4.提供disable host功能
 		5.添加删除host功能
-###使用说明：
+###使用说明：【'http://localhost/zabbix/api_jsonrpc.php' #修改URL - 20151110】
 		修改自己的url，及user,password,详见example.py
 
 ###帮助信息
